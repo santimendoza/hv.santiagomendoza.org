@@ -31,10 +31,10 @@
     "react",
     "jsx"
   ],
-  "author": "Oscar Barajas <oscar@dragons.mx>",
+  "author": "Santiago Mendoza <contacto@santiagomendoza.org>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/gndx/gresume-react/issues"
   },
-  "homepage": "https://github.com/gndx/gresume-react#readme"
+  "homepage": "https://github.com/smendozaisf/cv.santiagomendoza.org"
 }
