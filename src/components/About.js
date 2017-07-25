@@ -2,8 +2,8 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import Social from './Social';
 
-const About = ({avatar, name, profession, bio, address, social}) => {
-  return(
+const About = ({ avatar, name, profession, bio, address, social, email }) => {
+  return (
     <div className='bio'>
       <div className='avatar'>
         <img src={avatar} alt={name} />
@@ -19,6 +19,9 @@ const About = ({avatar, name, profession, bio, address, social}) => {
         <p>{address}</p>
       </div>
       <Social social={social} />
+      <div className='email'>
+        <p>{email}</p>
+      </div>
     </div>
   );
 };
