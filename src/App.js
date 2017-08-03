@@ -59,6 +59,7 @@ class App extends Component {
         { name: 'Learn and Understand NodeJS', institution: 'Udemy', date: 'Jan 2017', description: 'Dive deep under the hood of NodeJS. Learn V8, Express, the MEAN stack, core Javascript concepts, and more.' },
         { name: 'Modern React with Redux', institution: 'Udemy', date: 'Jan 2017', description: 'Master the fundamentals of React and Redux with this tutorial as you develop apps supported by NPM, Webpack, and ES6' },
         { name: 'M101JS: MongoDB for Node.js Developers', institution: 'MongoDB University', date: 'May 2017', description: 'Learn everything you need to know to get started building a MongoDB-based app.' },
+        { name: 'Liderazgo Empresarial', institution: 'TAB University', date: 'Aug 2017', description: 'Know the personality type and bring the whole team through the change curve.' },
         { name: 'LFS101x.2 Introduction to Linux', institution: 'EdX', date: 'Feb 2015', description: '' },
         { name: 'Inbound Certified', institution: 'HubSpot', date: 'Mar 2017 - May 2019', description: 'Inbound Marketing Certification' },
         { name: 'Carrera de Administración de Servidores y DevOps', institution: 'Platzi', date: 'Mar 2016 - Mar 2017', description: '' },
