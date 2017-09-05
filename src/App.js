@@ -28,26 +28,24 @@ class App extends Component {
           company: 'ISF',
           startDate: 'Jan 2017',
           endDate: 'Present',
-          jobDescription: `Desarrollo de Software utilizando el siguiente Stack:
+          jobDescription: `Software Development using:
           Node.js, React.js, Oracle, MongoDB, ElasticSearch, Git, Github.
-          Siguiendo la metodología Scrum.`
+          Following Scrum framework`
         },
         {
           jobTitle: 'Tech Leader',
           company: 'Universidad Tecnológica de Bolívar',
           startDate: 'Jul 2015',
           endDate: 'Dec 2016',
-          jobDescription: `Administración de Servidores Linux.
-          Desarrollo e implementación de aplicaciones utilizando JavaScript, HTML5, CSS3, JavaScript, PHP, y Frameworks como Laravel, AngularJS.
-          Administración y soporte de LMS Moodle.`
+          jobDescription: `Linux SysAdm. Web-apps development using JavaScript, HTML5, CSS3, JavaScript, PHP, and Frameworks like Laravel and AngularJS.
+          LMS Moodle Support and administration.`
         },
         {
           jobTitle: 'Systems Engineering Practitioner',
           company: 'Intertug',
           startDate: 'Dec 2014',
           endDate: 'Jun 2015',
-          jobDescription: `Diseño y desarrollo de aplicación web para Tracking.
-          Desarrollo de scripts en Python para administración y mantenimiento de Raspberrys remotos.`
+          jobDescription: `A Tracking Web-app development. Scripts development for remote Raspberries administration and maintenance.`
         },
         {
           jobTitle: 'Teacher',
@@ -71,7 +69,8 @@ class App extends Component {
           institution: 'Universidad Tecnológica de Bolívar',
           startDate: 'Feb 2011',
           endDate: 'Oct 2015',
-          description: `Monitor de Algoritmos 2P-2014. Representante estudiantil ante el Comité Curricular de Ingeniería de Sistemas 2014 - 2015`
+          description: `Algorithm Monitor 2P-2014.
+          Student Representative to the Curricular Committee of Systems Engineering 2014 - 2015`
         }
       ],
       courses: [
@@ -79,7 +78,7 @@ class App extends Component {
           name: 'Learn and Understand NodeJS',
           institution: 'Udemy',
           date: 'Jan 2017',
-          tags: 'javascript, nodejs',
+          tags: 'javascript, nodejs, backend, fullstack',
           description:
             'Dive deep under the hood of NodeJS. Learn V8, Express, the MEAN stack, core Javascript concepts, and more.'
         },
@@ -87,22 +86,14 @@ class App extends Component {
           name: 'ES6 for Everyone',
           institution: 'WesBos',
           date: 'Aug 2017',
-          tags: 'javascript',
+          tags: 'javascript, frontend, backend, fullstack',
           description: 'Modern JavaScript'
-        },
-        {
-          name: 'Writing for the web',
-          institution: 'Open2Study',
-          date: 'Sep 2017',
-          tags: 'blogging, marketing digital, seo',
-          description:
-            'Explore how writing style, web design and structure can grab the attention of and engage online readers.'
         },
         {
           name: 'Modern React with Redux',
           institution: 'Udemy',
           date: 'Jan 2017',
-          tags: 'javascript, react, redux',
+          tags: 'javascript, react, redux, frontend, fullstack',
           description:
             'Master the fundamentals of React and Redux with this tutorial as you develop apps supported by NPM, Webpack, and ES6'
         },
@@ -110,7 +101,7 @@ class App extends Component {
           name: 'M101JS: MongoDB for Node.js Developers',
           institution: 'MongoDB University',
           date: 'May 2017',
-          tags: 'mongodb, javascript, nodejs',
+          tags: 'mongodb, javascript, nodejs, backend, fullstack',
           description:
             'Learn everything you need to know to get started building a MongoDB-based app.'
         },
@@ -123,6 +114,14 @@ class App extends Component {
             'Know the personality type and bring the whole team through the change curve.'
         },
         {
+          name: 'Writing for the web',
+          institution: 'Open2Study',
+          date: 'Sep 2017',
+          tags: 'blogging, digital marketing, seo',
+          description:
+            'Explore how writing style, web design and structure can grab the attention of and engage online readers.'
+        },
+        {
           name: 'LFS101x.2 Introduction to Linux',
           institution: 'EdX',
           date: 'Feb 2015',
@@ -133,7 +132,7 @@ class App extends Component {
           name: 'Inbound Certified',
           institution: 'HubSpot',
           date: 'Mar 2017 - May 2019',
-          tags: 'marketing digital',
+          tags: 'digital marketing',
           description: 'Inbound Marketing Certification'
         },
         {
@@ -147,43 +146,43 @@ class App extends Component {
           name: 'Curso básico de Marketing Digital',
           institution: 'IAB Spain',
           date: 'Jul 2014',
-          tags: 'marketing digital',
+          tags: 'digital marketing',
           description: ''
         },
         {
           name: 'Academia de Obreros',
           institution: 'Iglesia Cristiana Rios De Vida',
           date: 'Apr 2014',
-          tags: 'cristiano',
+          tags: 'christian',
           description: ''
         },
         {
           name: 'Academia Avanzada',
           institution: 'Iglesia Cristiana Rios De Vida',
           date: 'Nov 2015',
-          tags: 'cristiano',
+          tags: 'christian',
           description: ''
         },
         {
           name: 'FrontEnd Developer',
           institution: 'Platzi',
           date: 'Jan 2015',
-          tags: 'javascript',
+          tags: 'javascript, frontend, fullstack',
           description: ''
         },
         {
           name: 'Backend Developer',
           institution: 'Platzi',
           date: 'Jan 2016',
-          tags: 'backend',
+          tags: 'backend, fullstack, php',
           description: ''
         },
         {
-          name: 'Diplomado en Gerencia en Tecnologías en la Nube para Empresas',
+          name: 'Diploma in Management in Cloud Technologies for Companies',
           institution: 'Unipymes',
           date: 'Apr 2015',
           tags: 'sysadm, devops',
-          description: 'Intensidad de 30 horas'
+          description: '30 hours'
         }
       ]
       // skills: [
