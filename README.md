@@ -3,6 +3,7 @@
 Perfil profesional de [Santiago Mendoza](http://www.santiagomendoza.org). You can filter courses section by adding `?tags=` to the URL. For example, you can filter all courses with the tag `javascript` by adding `?tags=javascript`.
 
 ### Install Dependencies
+
 ```
 npm install
 ```
