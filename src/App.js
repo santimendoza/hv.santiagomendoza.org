@@ -25,7 +25,7 @@ class App extends Component {
       experience: [
         {
           jobTitle: 'Software Engineer',
-          company: 'ISF',
+          company: 'Condor Labs',
           startDate: 'Jan 2017',
           endDate: 'Present',
           jobDescription: `Software Development using:
