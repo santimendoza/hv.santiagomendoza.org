@@ -106,6 +106,22 @@ class App extends Component {
             'Learn everything you need to know to get started building a MongoDB-based app.'
         },
         {
+          name: 'Fundamentos en la gestion de proyectos',
+          institution: 'Platzi',
+          date: 'Mar 2018',
+          tags: 'project-management',
+          description:
+            'Understand how to manage successful projects following the PMI methodology'
+        },
+        {
+          name: 'Finanzas Personales',
+          institution: 'Platzi',
+          date: 'Mar 2018',
+          tags: 'finances',
+          description:
+            ''
+        },
+        {
           name: 'Liderazgo Empresarial',
           institution: 'TAB University',
           date: 'Aug 2017',

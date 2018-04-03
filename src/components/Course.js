@@ -5,7 +5,6 @@ const Course = props => {
   const search = window.location.search;
   const params = querystring.parse(search.split('?')[1]);
   const tags = params.tags;
-  console.log(tags);
   const myCourses = (
     <div>
       {props.courses.map(cert => {
