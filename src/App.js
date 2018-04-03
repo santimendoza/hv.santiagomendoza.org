@@ -13,7 +13,7 @@ class App extends Component {
       name: 'Santiago Mendoza',
       profession: 'Software Engineer',
       bio:
-        'Software Engineer at ISF de Colombia. Christian. Passionate about God, Digital Marketing and personal finances.',
+        'Software Engineer at Condor Labs. Christian. Passionate about God, Digital Marketing and personal finances.',
       address: 'Cartagena, Colombia.',
       email: 'contacto@santiagomendoza.org',
       social: [
