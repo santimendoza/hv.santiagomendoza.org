@@ -19,7 +19,7 @@ class App extends Component {
       social: [
         { name: 'facebook', url: 'https://facebook.com/SantiagoMendozaOficial' },
         { name: 'twitter', url: 'https://twitter.com/sanmen1593' },
-        { name: 'github', url: 'https://github.com/smendozaisf' },
+        { name: 'github', url: 'https://github.com/santimendoza' },
         { name: 'linkedin', url: 'https://www.linkedin.com/in/santiagomendoza/' }
       ],
       experience: [
