@@ -17,10 +17,16 @@ class App extends Component {
       address: 'Cartagena, Colombia.',
       email: 'contacto@santiagomendoza.org',
       social: [
-        { name: 'facebook', url: 'https://facebook.com/SantiagoMendozaOficial' },
+        {
+          name: 'facebook',
+          url: 'https://facebook.com/SantiagoMendozaOficial'
+        },
         { name: 'twitter', url: 'https://twitter.com/sanmen1593' },
         { name: 'github', url: 'https://github.com/santimendoza' },
-        { name: 'linkedin', url: 'https://www.linkedin.com/in/santiagomendoza/' }
+        {
+          name: 'linkedin',
+          url: 'https://www.linkedin.com/in/santiagomendoza/'
+        }
       ],
       experience: [
         {
@@ -114,12 +120,18 @@ class App extends Component {
             'Understand how to manage successful projects following the PMI methodology'
         },
         {
+          name: 'Introducción a las metodologías ágiles',
+          institution: 'Platzi',
+          date: 'Apr 2018',
+          tags: 'project-management',
+          description: ''
+        },
+        {
           name: 'Finanzas Personales',
           institution: 'Platzi',
           date: 'Mar 2018',
           tags: 'finances',
-          description:
-            ''
+          description: ''
         },
         {
           name: 'Liderazgo Empresarial',
