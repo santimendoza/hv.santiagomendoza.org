@@ -58,8 +58,7 @@ class App extends Component {
           company: 'Interlat',
           startDate: 'Apr 2016',
           endDate: 'Nov 2016',
-          jobDescription: `Docente del módulo y curso especializado
-          "SEO: Posicionamiento en buscadores" del Diplomado en Marketing Digital de Interlat en convenio con la Universidad Pontificia Bolivariana.`
+          jobDescription: `Teacher of the course SEO: Search Engine Optimization of the Diploma in Digital Marketing of Interlat in agreement with the Universidad Pontificia Bolivariana.`
         }
       ],
       education: [
