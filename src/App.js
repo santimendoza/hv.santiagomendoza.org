@@ -13,9 +13,9 @@ class App extends Component {
       name: 'Santiago Mendoza',
       profession: 'Software Engineer',
       bio:
-        'Software Engineer at Condor Labs. Christian. Passionate about God, Digital Marketing and personal finances.',
+        'Frontend Developer at Yuxi Global. Christian. Passionate about God, Digital Marketing and Personal Finances.',
       address: 'Cartagena, Colombia.',
-      email: 'contacto@santiagomendoza.org',
+      email: 'hello@santiagomendoza.net',
       social: [
         {
           name: 'facebook',
@@ -30,10 +30,19 @@ class App extends Component {
       ],
       experience: [
         {
+          jobTitle: 'Frontend Developer',
+          company: 'Yuxi Global',
+          startDate: 'Jan 2021',
+          endDate: 'Present',
+          jobDescription: `Software Development using:
+          Node.js, React.js, Wordpress, MySQL, Git
+          Following Scrum framework`
+        },
+        {
           jobTitle: 'Software Engineer',
           company: 'Condor Labs',
           startDate: 'Jan 2017',
-          endDate: 'Present',
+          endDate: 'Dec 2020',
           jobDescription: `Software Development using:
           Node.js, React.js, Oracle, MongoDB, ElasticSearch, Git, Github.
           Following Scrum framework`
